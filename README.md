@@ -1,17 +1,5 @@
 # PROG7311-POE-PART2
 
- 
-Table of Contents
-Introduction	2
-Core Components and Functionality	2
-Index Page	2
-Menu Page	2
-Registration Page	2
-Database Management and Usage	2
-Setup and Usage	3
-Future Scope and Notes	3
-
- 
 Introduction
 The MPV Farm Management Web Application is a comprehensive system developed to streamline the interaction between farmers and employees with farm-related data. Built on the robust and scalable ASP.NET Core framework, the application incorporates Razor Pages to deliver a seamless and intuitive user interface. The application leverages Azure SQL Database, providing reliable, cloud-based data storage and management.
 Core Components and Functionality
